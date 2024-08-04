@@ -72,7 +72,7 @@ router.get('/', async (req, res) => {
 Please Follow My Support Channel
 Wanna talk to me?👉 https://www.instagram.com/no.pm6?igsh=eWVyZjR5N2RlZWM2 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+©*2024-2099 𝙆𝙞𝙣𝙜 𝘼𝙣𝙤𝙣𝙮𝙢𝙤𝙪𝙨👑*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
